@@ -3,7 +3,7 @@
 Web app designed to help students have a better access to their academic infos such as grades, attendance, resources etc...
 
 
-The sole goal of this app was to make me learn how to code. A friend of mine pitched me the idea and I said yes event though I had very small programming knowledge.
+The personal goal of this app, apart from selling the service to our school, was to make me learn how to code. A friend of mine pitched me the idea and I said yes even though I had very small programming knowledge.
 This can be seen as a software representation of learning how to code on the fly for a little less than 9 months. Anyway, enough ranting.
 
 This app was coded using MAMP first then XAMPP as local hosting support. It uses a SQL database accessed via PHP, though most of the variables are hard-coded for privacy.
