@@ -1,0 +1,183 @@
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: url('HelveticaNeue-Medium.otf')
+}
+
+@font-face {
+	font-family: 'HelveticaNeueBlack';
+	src: url('HelveticaNeue-Black.otf')
+}
+
+html {
+	background-color:#FFFFFF;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+
+* {
+  	box-sizing: border-box;à
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+  	font-size: 16px;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+}
+
+div {
+	align-items: center;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+
+img {
+	align-items: center;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+	top: 150px;
+	margin-left: 300px;
+}
+
+body {
+  	background-color: white;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login {
+  	width: 400px;
+  	background-color: #ffffff;
+  	box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+  	margin: 100px auto;
+	border-radius: 25px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login h1 {
+  	text-align: center;
+  	color: #5b6574;
+  	font-size: 24px;
+  	padding: 20px 0 20px 0;
+  	border-bottom: 1px solid #dee0e4;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login form {
+  	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	padding-top: 20px;
+	border-radius: 25px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login form label {
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	width: 50px;
+  	height: 50px;
+  	background-color: #3274d6;
+  	color: #ffffff;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login form input[type="password"], .login form input[type="text"] {
+  	width: 310px;
+  	height: 50px;
+  	margin-bottom: 20px;
+  	padding: 0 15px;
+	border: hidden;
+	border-bottom: 1px solid #626262;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login form input[type="submit"] {
+  	width: 100%;
+  	padding: 15px;
+ 	margin-top: 20px;
+  	background-color: #3274d6;
+  	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+  	color: #ffffff;
+  	transition: background-color 0.2s;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login form input[type="submit"]:hover {
+	background-color: #2868c7;
+  	transition: background-color 0.2s;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop {
+	background-color: #2f3947;
+	height: 60px;
+	width: 100%;
+	border: 0;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop div {
+	display: flex;
+	margin: 0 auto;
+	width: 1000px;
+	height: 100%;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop div h1, .navtop div a {
+	display: inline-flex;
+	align-items: center;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop div h1 {
+	flex: 1;
+	font-size: 24px;
+	padding: 0;
+	margin: 0;
+	color: #eaebed;
+	font-weight: normal;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop div a {
+	padding: 0 20px;
+	text-decoration: none;
+	color: #c1c4c8;
+	font-weight: bold;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop div a i {
+	padding: 2px 8px 0 0;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.navtop div a:hover {
+	color: #eaebed;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+body.loggedin {
+	background-color: #f3f4f7;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.content {
+	width: 1000px;
+	margin: 0 auto;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.content h2 {
+	margin: 0;
+	padding: 25px 0;
+	font-size: 22px;
+	border-bottom: 1px solid #e0e0e3;
+	color: #4a536e;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.content > p, .content > div {
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
+	margin: 25px 0;
+	padding: 25px;
+	background-color: #fff;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.content > p table td, .content > div table td {
+	padding: 5px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.content > p table td:first-child, .content > div table td:first-child {
+	font-weight: bold;
+	color: #4a536e;
+	padding-right: 15px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.content > div p {
+	padding: 5px;
+	margin: 0 0 10px 0;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}

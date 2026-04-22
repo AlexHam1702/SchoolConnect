@@ -1,0 +1,2373 @@
+div {
+  overflow:hidden; 
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.coursesteachers {
+  width               : 100%;
+  min-width           : 1280px;
+  height              : 100vh;
+  min-height          : 1505px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+.mail {
+  z-index: 6;
+}
+
+div {
+  -webkit-text-size-adjust: none;
+  overflow:hidden; 
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.coursesteachers .group20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 1464px;
+  width               : 974px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group20 .group19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1464px;
+  width               : 974px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group20 .group19 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1464px;
+  width               : 974px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 222px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : -24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 222px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 84px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 .group8 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 .group8 .group3 .ellipse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 .group8 .group3 .mail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group10 .group8 .group3 .richard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group10 .group8 .group3 .david {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group10 .group8 .professeurdefran347a {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.5);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.coursesteachers .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : -23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group12 .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group12 .group11 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group12 .group11 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 66px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group12 .group11 .group9 .evenements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group13 .group12 .group11 .group9 .cours1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group13 .group12 .rectangle1 {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 156px;
+  height              : 1101px;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group12 .mute {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 33px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group18 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group18 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group18 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group18 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group18 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group18 .group14 .a2ndef {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group18 .group14 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group18 .group14 .m203 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group181 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 395px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group181 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group181 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group181 .group17 .a15h20u201416h30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group181 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group181 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group181 .group14 .a2ndef {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group181 .group14 .a15h20u201416h30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group181 .group14 .m203 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group182 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 497px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group182 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group182 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group182 .group17 .a16h30u201417h25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group182 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group182 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group182 .group14 .a1erel1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group182 .group14 .a16h30u201417h25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group182 .group14 .m106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group183 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group183 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group183 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group183 .group17 .a17h25u201418h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group183 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group183 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group183 .group14 .a1erel2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group183 .group14 .a17h25u201418h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group183 .group14 .m103 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group184 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 842px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group184 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group184 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group184 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group184 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group184 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group184 .group14 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group184 .group14 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group184 .group14 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group185 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 944px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group185 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group185 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group185 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group185 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group185 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group185 .group14 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group185 .group14 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group185 .group14 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group186 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1046px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group186 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group186 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group186 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group186 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group186 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group186 .group14 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group186 .group14 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group186 .group14 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group187 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1148px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group187 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group187 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group187 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group187 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group187 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group187 .group14 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group187 .group14 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group187 .group14 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : 112px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group16 .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 49px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group16 .group15 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group16 .group15 .fairelu2019appel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.coursesteachers .group13 .group16 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group16 .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group13 .group16 .group14 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group16 .group14 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .group16 .group14 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .encoursu2026 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.coursesteachers .group13 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : 1059px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .deconnexion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 140px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1147px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(109, 114, 120, 0.39);
+  text-align          : left;
+  line-height         : 17.0px;
+  text-decoration     : underline;
+}
+.coursesteachers .cours {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 411px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 45.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.coursesteachers .vosclasses {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 411px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -48px;
+  height              : 200px;
+  width               : 1380px;
+  position            : absolute;
+  margin              : 0;
+  left                : -50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group2 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 200px;
+  width               : 1380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group2 .schoolco2logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 75px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group2 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : 36px;
+  width               : 676px;
+  position            : absolute;
+  margin              : 0;
+  left                : 572px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group2 .group .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group2 .group .agenda {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group2 .group .cours1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 397px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group2 .group .pilote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 594px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.coursesteachers .group2 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 6px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 987px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 211px;
+  height              : 1279px;
+  width               : 889px;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1279px;
+  width               : 889px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 366px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 .rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 273px;
+  height              : 93px;
+  width               : 213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 93px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : 93px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 93px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 111px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group4 .a3emeh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.coursesteachers .group22 .group21 .group4 .a2ndef {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.coursesteachers .group22 .group21 .group4 .a3emeg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.coursesteachers .group22 .group21 .group4 .tlel2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.coursesteachers .group22 .group21 .group4 .a5emec {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 305px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.coursesteachers .group22 .group21 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 1270px;
+  width               : 703px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 81px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 713px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group5 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 81px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group5 .nouveau {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.coursesteachers .group22 .group21 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 1193px;
+  width               : 494px;
+  position            : absolute;
+  margin              : 0;
+  left                : 225px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .rectangle5 {
+  background-color    : rgba(229, 229, 229, 1.0);
+  top                 : 0px;
+  height              : 1193px;
+  width               : 494px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 10px;
+  height              : 105px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 124px;
+  height              : 105px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 238px;
+  height              : 105px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .rectangle4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 352px;
+  height              : 105px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 401px;
+  width               : 454px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 401px;
+  width               : 454px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group24 .fichemethodeargume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group24 .envoy351parpablodup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group24 .le81119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 346px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : right;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group241 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : 71px;
+  width               : 454px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group241 .bilansequenceautob {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group241 .envoy351pardavidric {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group241 .le51119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 348px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : right;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group242 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : 71px;
+  width               : 453px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group242 .correctiondst1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group242 .envoy351parcosmelor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group242 .le21119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : right;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group243 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 330px;
+  height              : 71px;
+  width               : 453px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group243 .programmedelecture {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group243 .envoy351parmartacor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .group21 .group7 .group6 .group23 .group243 .le11119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : right;
+  line-height         : 25.0px;
+}
+.coursesteachers .group22 .vousnu2019aviezpasenc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 857px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 341px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(109, 114, 120, 0.39);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

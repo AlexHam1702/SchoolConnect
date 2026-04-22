@@ -1,0 +1,278 @@
+
+
+form {
+  z-index: 3;
+}
+.login {
+  width               : 100%;
+  min-width           : 1280px;
+  height              : 100vh;
+  min-height          : 800px;
+ position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+  z-index: 3;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+
+.login form {
+  	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	padding-top: 20px;
+	border-radius: 25px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+  
+}
+.login form label {
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	width: 50px;
+  	height: 50px;
+  	background-color: #3274d6;
+  	color: #ffffff;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+}
+.login form input[type="password"], .login form input[type="text"], .login form input[id="username"] {
+  	width: 210px;
+  	height: 50px;
+  	margin-bottom: 10px;
+  	padding: 0 15px;
+	border: hidden;
+	border-bottom: 1px solid #626262;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-family: HelveticaNeue, roboto, oxygen, Arial;
+  font-smooth: always;
+  text-rendering: auto;
+  z-index: 3;
+}
+
+input[type="submit"] {
+  padding: 30px 150px;
+  margin-top: 50px;
+  z-index: 3;
+  opacity: 0;
+}
+
+.login .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 173px;
+  height              : 506px;
+  width               : 377px;
+  position            : relative;
+  margin              : 0;
+  left                : 448px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.login .group .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 329px;
+  height              : 177px;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.login .group .connexion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 395px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.login .group .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 291px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  z-index: 2;
+}
+.login .group .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 303px;
+  height              : 2px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.login .group .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : 2px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.login .group .formulaire {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 201px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.login .group .formulaire {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 284px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(109, 114, 120, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.login .group .schoolco2logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 136px;
+  width               : 311px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

@@ -1,0 +1,2258 @@
+body {
+  overflow:hidden; 
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+.messagerieteachers {
+  width               : 100%;
+  min-width           : 1280px;
+  height              : 100vh;
+  min-height          : 1505px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+.mail {
+  z-index: 6;
+}
+div {
+  -webkit-text-size-adjust: none;
+  overflow:hidden; 
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.messagerieteachers .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 1465px;
+  width               : 981px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group15 .group19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1465px;
+  width               : 981px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group15 .group19 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1465px;
+  width               : 981px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group15 .group19 .messagerieeleves {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : auto;
+  width               : 426px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 45.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.messagerieteachers .group15 .group19 .a3emeh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.messagerieteachers .group15 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 54px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 658px;
+  border-radius       : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group15 .nouveaumessage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 693px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 284px;
+  height              : 1169px;
+  width               : 822px;
+  position            : absolute;
+  margin              : 0;
+  left                : 410px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1169px;
+  width               : 822px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 36px;
+  height              : 82px;
+  width               : 764px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 186px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 392px;
+  height              : 186px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 622px;
+  height              : 186px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle5 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 852px;
+  height              : 186px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .boitedereception {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 317px;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.messagerieteachers .group14 .rectangle6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 977px;
+  width               : 488px;
+  position            : absolute;
+  margin              : 0;
+  left                : 305px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .group134 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 189px;
+  height              : 133px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .group134 .edouardkoffikoutsa1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group134 .resoireescoutfb1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 179px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group134 .bonjourcijointla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 133px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .group131 .antoineboudrie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : 156px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group131 .premierssecours {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group131 .bonjourcijointla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group132 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 651px;
+  height              : 133px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .group132 .pierregiraud {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : 127px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group132 .realbumphoto2019 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group132 .bonjourcijointla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group133 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 879px;
+  height              : 133px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .group133 .haroldbirene {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group133 .recroixfry2020 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .group133 .bonjourcijointla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .rectangle7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 189px;
+  height              : 63px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  border-radius       : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle8 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 269px;
+  height              : 63px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  border-radius       : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .rectangle9 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 403px;
+  height              : 719px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .edouardkoffikoutsa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 209px;
+  height              : auto;
+  width               : 404px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .resoireescoutfb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : 193px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .bonjourcijointl {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 480px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group14 .rectangle10 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1033px;
+  height              : 77px;
+  width               : 434px;
+  position            : absolute;
+  margin              : 0;
+  left                : 332px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group14 .fichiersoireescout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1060px;
+  height              : auto;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 382px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.messagerieteachers .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -48px;
+  height              : 200px;
+  width               : 1380px;
+  position            : absolute;
+  margin              : 0;
+  left                : -50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group2 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 200px;
+  width               : 1380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group2 .schoolco2logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 75px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group2 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : 36px;
+  width               : 679px;
+  position            : absolute;
+  margin              : 0;
+  left                : 572px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group2 .group .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group2 .group .agenda {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group2 .group .cours {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 397px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group2 .group .pilote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 222px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : -23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group10 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 222px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group10 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 84px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group10 .group8 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group10 .group8 .group3 .ellipse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group10 .group8 .group3 .mail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group10 .group8 .group3 .richard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group10 .group8 .group3 .david {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group10 .group8 .professeurdefran347a {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.5);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.messagerieteachers .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : -23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group12 .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group12 .group11 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1324px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group12 .group11 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 66px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group12 .group11 .group9 .evenements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group13 .group12 .group11 .group9 .cours {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.messagerieteachers .group13 .group12 .rectangle1 {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 156px;
+  height              : 1101px;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group12 .mute {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 33px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group18 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group18 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group18 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group18 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group18 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group18 .group141 .a2ndef {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group18 .group141 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group18 .group141 .m203 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group181 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 395px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group181 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group181 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group181 .group17 .a15h20u201416h30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group181 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group181 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group181 .group141 .a2ndef {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group181 .group141 .a15h20u201416h30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group181 .group141 .m203 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group182 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 497px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group182 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group182 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group182 .group17 .a16h30u201417h25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group182 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group182 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group182 .group141 .a1erel1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group182 .group141 .a16h30u201417h25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group182 .group141 .m106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group183 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group183 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group183 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group183 .group17 .a17h25u201418h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group183 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group183 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group183 .group141 .a1erel2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group183 .group141 .a17h25u201418h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group183 .group141 .m103 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group184 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 842px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group184 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group184 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group184 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group184 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group184 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group184 .group141 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group184 .group141 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group184 .group141 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group185 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 944px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group185 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group185 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group185 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group185 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group185 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group185 .group141 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group185 .group141 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group185 .group141 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group186 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1046px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group186 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group186 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group186 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group186 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group186 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group186 .group141 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group186 .group141 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group186 .group141 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group187 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1148px;
+  height              : 77px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group187 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group187 .group17 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group187 .group17 .a14h25u201415h20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group187 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group187 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group187 .group141 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group187 .group141 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group187 .group141 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : 112px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group16 .group151 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 49px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group16 .group151 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group16 .group151 .fairelu2019appel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.messagerieteachers .group13 .group16 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group16 .group141 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.messagerieteachers .group13 .group16 .group141 .a3350meh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group16 .group141 .a12h10u201413h05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .group16 .group141 .a403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 0.78);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .encoursu2026 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(81, 81, 81, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.messagerieteachers .group13 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : 1059px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
